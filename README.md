@@ -1,2 +1,2 @@
 # altru
-Nonprofit transparency, volunteering, and donation application
+Application for Tech for Good - Change the world with us
